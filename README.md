@@ -4,6 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v1nexx&label=Profile%20views&color=0e75b6&style=flat" alt="v1nexx" /> </p>
 
+- 🔭 I’m currently working on **project 1**
+
+- 🌱 I’m currently learning **Frameworks ,courses**
+
+- 👯 I’m looking to collaborate on **Project 2**
+
+- 💬 Ask me about **react ,vue and gsap**
+
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
